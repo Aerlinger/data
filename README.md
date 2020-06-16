@@ -528,7 +528,10 @@ python update.py
 
 See the [source documentation](src) for more technical details.
 
+## Running the tests
 
+From within the src folder run the following command:
+`python -m unittest discover test`
 
 ## Contribute
 
